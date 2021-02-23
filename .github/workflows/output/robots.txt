@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://whitehole.com/sitemap.xml
